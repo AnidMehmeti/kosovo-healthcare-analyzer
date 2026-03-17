@@ -1,0 +1,28 @@
+municipality,population,facility_count,facilities_per_1000,underserved,urban_rural,gap_from_baseline,coverage_tier
+Prishtinë,227737.0,130,0.571,False,Urban,0.409,Well Served
+Gjakovë,77449.0,38,0.491,False,Urban,0.329,Well Served
+Kaçanik,27489.0,13,0.473,False,Rural,0.311,Well Served
+Zveçan,2859.0,1,0.35,False,Rural,0.188,Well Served
+Gjilan,81842.0,23,0.281,False,Urban,0.119,Well Served
+Pejë,81751.0,20,0.245,False,Urban,0.083,Well Served
+Prizren,145938.0,28,0.192,False,Urban,0.03,Adequately Served
+Lipjan,54571.0,10,0.183,False,Urban,0.021,Adequately Served
+Suharekë,44690.0,8,0.179,False,Rural,0.017,Adequately Served
+Vushtrri,60658.0,10,0.165,False,Urban,0.003,Adequately Served
+Istog,32464.0,4,0.123,True,Rural,-0.039,Underserved
+Deçan,27429.0,3,0.109,True,Rural,-0.053,Underserved
+Gllogoc,47121.0,5,0.106,True,Rural,-0.056,Underserved
+Dragash,28637.0,3,0.105,True,Rural,-0.057,Underserved
+Leposaviq,9479.0,1,0.105,True,Rural,-0.057,Underserved
+Kamenicë,22312.0,2,0.09,True,Rural,-0.072,Underserved
+Shtime,24138.0,2,0.083,True,Rural,-0.079,Underserved
+Sknderaj,40055.0,3,0.075,True,Rural,-0.087,Critically Underserved
+Klinë,29661.0,2,0.067,True,Rural,-0.095,Critically Underserved
+Ferizaj,108677.0,7,0.064,True,Urban,-0.098,Critically Underserved
+Fushë Kosovë,64393.0,4,0.062,True,Urban,-0.1,Critically Underserved
+Mitrovicë,64201.0,4,0.062,True,Urban,-0.1,Critically Underserved
+Malishevë,42413.0,2,0.047,True,Rural,-0.115,Critically Underserved
+Obiliq,22729.0,1,0.044,True,Rural,-0.118,Critically Underserved
+Podujevë,69795.0,3,0.043,True,Urban,-0.119,Critically Underserved
+Viti,34898.0,1,0.029,True,Rural,-0.133,Critically Underserved
+Rahovec,40283.0,1,0.025,True,Rural,-0.137,Critically Underserved
