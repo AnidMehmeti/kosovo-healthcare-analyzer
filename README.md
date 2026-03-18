@@ -9,7 +9,9 @@ This project focuses on finding underserved municipalities in Kosovo regarding p
 - Larger municipalities like Gjakova and Peja have a similar, but lesser gravity pull of that of Prishtina, with nearby smaller underserved municipalities
 
 ## Data Sources
-[List all three sources with URLs]
+https://ask.rks-gov.net/en/
+https://overpass-api.de
+https://gadm.org/download_country.html
 
 ## Tech Stack
 Python (Pandas, Geopandas, Matplotlib, Seaborn)
